@@ -17,15 +17,15 @@ it's welcome, I may have overlooked something and there may be a better way to d
 ## Changes
 ### Version 1.1.1
 Changes:
-    *Fixed a typo in the cmd string
+    * Fixed a typo in the cmd string
 
 ### Version 1.1.0
 Changes:
-    *Backgrounds no longer need to be in a public folder
-    *Python 2.7 support added
-    *The current background is stored at /.LoginBackground
+    * Backgrounds no longer need to be in a public folder
+    * Python 2.7 support added
+    * The current background is stored at /.LoginBackground
 
 ### Version 1.0.0
 Changes:
-    *it sets your login window background
-    *Python 3.2 support
+    * it sets your login window background
+    * Python 3.2 support
