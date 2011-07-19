@@ -38,6 +38,4 @@ for line in std: #for every line outputted in std
             
 if not path == "Error":
     cp = split(str('cp %s /.LoginBackground' % path))
-    cmd = split(str('defaults write /Library/Preferences/com.apple.loginwindow DesktopPicture "/.LoginBackground"'))
     Popen(cp)
-    Popen(cmd)
